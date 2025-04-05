@@ -4,10 +4,10 @@ A pomodoro clock kind of thing made out of neopixels!
 
 ## Screenshots
 
-![first](3d1.png)
-![second](3d2.png)
-![third](front.png)
-![fourth](back.png)
+![first](screenshots/3d1.png)
+![second](screenshots/3d2.png)
+![third](screenshots/front.png)
+![fourth](screenshots/back.png)
 
 
 > ![NOTE]
